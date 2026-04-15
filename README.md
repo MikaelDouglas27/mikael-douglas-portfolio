@@ -44,5 +44,5 @@ Tenho vivência com ambientes reais de produção, incluindo correção de bugs,
 
 ## 📫 Contato
 
-* LinkedIn: https://www.linkedin.com/in/SEU_LINK_AQUI
+* LinkedIn: https://www.linkedin.com/in/mikael-douglas-8440b2212/
 * GitHub: https://github.com/MikaelDouglas27
