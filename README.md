@@ -16,8 +16,8 @@ Atuo no desenvolvimento de sistemas web, com foco em APIs RESTful, integrações
 * Git / GitHub
 
 ## Projetos
-🚧 Em construção — novos projetos serão adicionados em breve.
+ Em construção — novos projetos serão adicionados em breve.
 
-## 📫 Contato
+## Contato
 
 * LinkedIn: https://www.linkedin.com/in/mikael-douglas-8440b2212/
